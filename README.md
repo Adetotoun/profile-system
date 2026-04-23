@@ -21,8 +21,9 @@
 - "between 20 and 30"
 
 **Base URL**
+https://profile-system-nine.vercel.app/
 
 **Example Endpoints**
-/api/profiles?gender=female&min_age=25
+https://profile-system-nine.vercel.app/api/profiles?gender=female&min_age=25
 
-/api/profiles/search?q=aadultg females from nigeria
+https://profile-system-nine.vercel.app/api/profiles/search?q=adult females from nigeria
